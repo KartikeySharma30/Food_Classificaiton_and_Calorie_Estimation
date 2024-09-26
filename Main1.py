@@ -14,7 +14,7 @@ import requests
 import os 
 import google.generativeai as genai
 import pyttsx3
-genai.configure(api_key="AIzaSyAJczBvEz9ejr6cHQ2kV7UsVcCG35nvXq8")
+genai.configure(api_key="#Upload Your Google Genrative API Key Here#")
 
 
 
