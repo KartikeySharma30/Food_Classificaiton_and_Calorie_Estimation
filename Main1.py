@@ -10,10 +10,10 @@ from tensorflow.keras.preprocessing import image
 from tensorflow.keras.models import load_model
 import numpy as np
 import pandas as pd
-import requests
 import os 
 import google.generativeai as genai
 import pyttsx3
+
 genai.configure(api_key="#Upload Your Google Genrative API Key Here#")
 
 
