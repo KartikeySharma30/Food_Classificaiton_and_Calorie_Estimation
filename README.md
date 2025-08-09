@@ -5,7 +5,7 @@ This project is an innovative Food Classification and Calorie Estimation System 
 With the rise of health-conscious behavior, this project aims to offer a practical solution that can benefit fitness enthusiasts, dieticians, and anyone looking to monitor their food intake. It combines deep learning, interactive graphical interfaces, and AI-driven content generation to deliver an engaging user experience.
 
 ## How to Run :
-- File Exectution Order : FCCES -> save the model -> Main1.py
+- **File Exectution Order : FCCES -> save the model -> Main1.py**
 
 ## Features and Functionality
 - **Food Image Classification**
