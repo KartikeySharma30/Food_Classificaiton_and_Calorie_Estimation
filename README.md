@@ -5,10 +5,10 @@ This project is an innovative Food Classification and Calorie Estimation System 
 With the rise of health-conscious behavior, this project aims to offer a practical solution that can benefit fitness enthusiasts, dieticians, and anyone looking to monitor their food intake. It combines deep learning, interactive graphical interfaces, and AI-driven content generation to deliver an engaging user experience.
 
 ## How to Run :
-- **File Exectution Order : FCCES -> save the model -> Main1.py**
+> **File Exectution Order : FCCES -> save the model -> Main1.py**
 
 ## Features and Functionality
-> **Food Image Classification**
+- **Food Image Classification**
 The core of the project is a *Convolutional Neural Network (CNN)*, built using TensorFlow and Keras, trained on a large dataset of food images. The CNN can classify food items into one of 34 categories with a high degree of accuracy.
 The model architecture includes several layers of convolutional filters and pooling layers that detect features in the image and make classifications based on learned patterns.
 
