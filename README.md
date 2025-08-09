@@ -5,7 +5,7 @@
 This project is an innovative Food Classification and Calorie Estimation System designed to help users classify **INDIAN FOOD DISH** from images and estimate their calorie content using deep learning techniques. The system is built around a Convolutional Neural Network (CNN), which processes food images and classifies them into 34 predefined categories and each class contains around 2000 images of that food item and Specifies the Calories about that item. In addition, it leverages Google's Generative AI API to generate ingredient information, providing insights into the nutritional makeup of the classified food items. Furthermore, the system offers a voice-based output using text-to-speech (TTS) functionality,as it helps to enhance accessibility for users by also making it usable for visually imapared persons.
 With the rise of health-conscious behavior, this project aims to offer a practical solution that can benefit fitness enthusiasts, dieticians, and anyone looking to monitor their food intake. It combines deep learning, interactive graphical interfaces, and AI-driven content generation to deliver an engaging user experience.
 
-## How to Run :
+## How to Run/Execute :
 > **File Exectution Order : FCCES -> save the model -> Main1.py**
 
 ## Features and Functionality
